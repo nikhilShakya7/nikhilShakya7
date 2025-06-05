@@ -31,11 +31,11 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya-00250b290/)
-- 🌐 [Portfolio](next-js-my-website.vercel.app)
+- 🌐 [Portfolio](https://next-js-my-website.vercel.app/)
 - ✉️ shakyanikhil2003@gmail.com
 
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
-</p>**
+</p>
