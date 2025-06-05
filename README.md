@@ -24,9 +24,6 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilShakya7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -35,14 +32,14 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilShakya7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilShakya7&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
+
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilShakya7&theme=tokyonight" alt="nikhilShakya7" />
-</div>
+
 
 ---
 ### 📫 Connect with Me
@@ -56,4 +53,4 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 </p>
-add something more
+
