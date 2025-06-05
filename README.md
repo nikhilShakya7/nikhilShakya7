@@ -38,9 +38,7 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilShakya7&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilShakya7&theme=tokyonight" alt="nikhilShakya7" />
-</div>
+
 
 ---
 ### 📫 Connect with Me
@@ -54,4 +52,6 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 </p>
+----
+
 
