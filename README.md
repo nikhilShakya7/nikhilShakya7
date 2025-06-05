@@ -28,12 +28,13 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhilShakya7&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+---
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya-00250b290/)
 - 🌐 [Portfolio](https://next-js-my-website.vercel.app/)
 - ✉️ shakyanikhil2003@gmail.com
 
+---
 
 <p align="center"> 
   Visitor count<br>
