@@ -30,16 +30,15 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikhilShakya7&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 ## 📊 GitHub Stats
 
-
+<div align="center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilShakya7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilShakya7&layout=compact&langs_count=8&theme=tokyonight"/>
 
-
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilShakya7&theme=tokyonight" alt="nikhilShakya7" />
-
+</div>
 
 ---
 ### 📫 Connect with Me
