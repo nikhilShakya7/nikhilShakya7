@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm [Your Name]
+# Hello World! 👋 I'm [Nikhil]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
