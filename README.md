@@ -43,7 +43,7 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 ---
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya-00250b290/)
-- 🌐 [Portfolio](https://next-js-my-website.vercel.app/)
+- 🌐 [Portfolio](https://www.shakyanikhil18.com.np/)
 - ✉️ shakyanikhil2003@gmail.com
 
 ---
@@ -52,6 +52,6 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 </p>
-----
+
 
 
