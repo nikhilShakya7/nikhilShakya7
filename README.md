@@ -50,7 +50,8 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nikhilShakya7/count.svg" />
+  <img src="(https://komarev.com/ghpvc/?username=nikhilShakya7&color=green)">
+</img>
 </p>
 
 
