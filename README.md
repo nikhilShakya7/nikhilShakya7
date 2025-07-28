@@ -48,6 +48,7 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 ---
 
+
 <p align="center"> 
   <b>Visitor count</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=nikhilShakya7&color=blue&style=for-the-badge">
