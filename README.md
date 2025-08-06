@@ -39,7 +39,6 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 </div>
 
 
-
 ---
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya-00250b290/)
