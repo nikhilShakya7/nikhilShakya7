@@ -7,7 +7,6 @@
 I'm passionate about building intuitive and modern **frontend experiences**.  
 Currently learning and building with **React**, **Next.js**, and **Python**.
 
-
 ### 🧰 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
