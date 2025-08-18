@@ -37,7 +37,6 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilShakya7&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-
 ---
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya-00250b290/)
