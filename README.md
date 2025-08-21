@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
+
 ## 👨‍💻 About Me
 
 I'm passionate about building intuitive and modern **frontend experiences**.  
