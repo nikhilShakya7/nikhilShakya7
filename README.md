@@ -53,5 +53,11 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 </img>
 </p>
 
-![GitHub Snake](https://github.com/nikhilShakya7/nikhilShakya7/blob/output/github-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/nikhilShakya7/nikhilShakya7/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github.com/nikhilShakya7/nikhilShakya7/blob/output/github-snake.svg">
+  <img alt="GitHub contribution snake"
+       src="https://github.com/nikhilShakya7/nikhilShakya7/blob/output/github-snake.svg">
+</picture>
