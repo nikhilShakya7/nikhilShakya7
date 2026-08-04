@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{nikhilShakya7}}
+          github_user_name: nikhilShakya7
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
