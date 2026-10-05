@@ -27,9 +27,7 @@ Currently learning and building with **React**, **Next.js**, and **Python**.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilShakya7&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 ## 📊 GitHub Stats
